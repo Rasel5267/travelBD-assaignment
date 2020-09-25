@@ -1,0 +1,10 @@
+.Navbar{
+    background:#000 !important;
+}
+.logBtn{
+    background: orange !important;
+}
+.logo, .nav-links, .logInBtn{
+    color: #fff;
+    text-decoration: none;
+}

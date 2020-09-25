@@ -1,0 +1,52 @@
+.logIn-sec{
+    align-items: center;
+}
+.logIn-form{
+    border: 1px solid gray;
+    margin-top:50px;
+    width: 340px;
+    margin-left: 36%;
+    padding: 15px 15px;
+    text-align: center;
+    border-radius:5px;
+}
+.input-box{
+    width: 75%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: none;
+    border-bottom: 1px solid gray;
+    outline: none;
+}
+.log-btn{
+    width: 265px;
+    padding: 10px;
+    background: orange;
+    border-radius: 50px;
+    border: none;
+    font-size:18px;
+    outline: none;
+    cursor: pointer;
+}
+hr{
+    width: 425px;
+    margin-top: 10px;
+}
+.scnLogIn{
+    text-align: center;
+}
+.loginBtn{
+    width: 340px;
+    padding: 5px;
+    background: none;
+    border-radius: 50px;
+    border: 1px solid gray;
+    outline: none;
+    cursor: pointer;
+}
+.loginBtn span{
+    margin-left:60px;
+}
+.fab{
+    font-size:25px;
+}

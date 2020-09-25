@@ -1,0 +1,39 @@
+.blog-title{
+    margin-top: 15px;
+}
+.blg-title{
+    font-weight: bold;
+    font-size:  30px;
+}
+.hotel-dtl{
+    width: 55%;
+}
+.hotel-sec{
+    display: flex;
+}
+.paper{
+    border: none !important;
+    margin: 30px 0;
+    height: 182px;
+}
+.hotel-img{
+    height: 188px;
+    border-radius: 5px;
+}
+.fa-star{
+    color: orange;
+    font-size: 25px;
+}
+.star{
+    font-weight: bold;
+}
+.amount{
+    padding-left: 70px;
+}
+.total-amount{
+    color: #e6e6e6;
+}
+.hotel-map{
+    width: 35%;
+    margin-left: 5%;
+}

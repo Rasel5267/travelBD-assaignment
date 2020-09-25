@@ -1,0 +1,28 @@
+.booking{
+    align-items: center;
+}
+.booking-form{
+    width: 348px;
+    border: 1px solid gray;
+    margin: 100px auto;
+    background: #fff;
+    border-radius: 5px;
+    padding: 12px;
+}
+.booking input[type="text"],[type="date"],[type="submit"]{
+    width: 320px;
+    padding: 10px;
+    outline: none;
+    font-size: 16px;
+    margin: 3px 0;
+    border: none;
+    background: #ddd;
+    border-radius: 5px;
+}
+.booking input[type="submit"]{
+    width: 340px;
+    margin-top:10px;
+    background: orange;
+    cursor: pointer;
+    padding: 13px 0;
+}

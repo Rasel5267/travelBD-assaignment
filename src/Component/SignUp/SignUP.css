@@ -1,0 +1,42 @@
+.signUp-sec{
+    align-items: center;
+}
+.signUp-form{
+    border: 1px solid gray;
+    margin-top:10px;
+    width: 340px;
+    margin-left: 36%;
+    padding: 5px 15px;
+    text-align: center;
+    border-radius:5px;
+}
+.input-box{
+    width: 75%;
+    padding: 5px;
+    border: none;
+    border-bottom: 1px solid gray;
+    outline: none;
+}
+hr{
+    width: 425px;
+    margin-top: 10px;
+}
+.scnSignUp{
+    text-align: center;
+}
+.loginBtn{
+    width: 340px;
+    padding: 5px;
+    background: none;
+    border-radius: 50px;
+    border: 1px solid gray;
+    outline: none;
+    cursor: pointer;
+    margin-bottom:  5px;
+}
+.loginBtn span{
+    margin-left:60px;
+}
+.fab{
+    font-size:25px;
+}
