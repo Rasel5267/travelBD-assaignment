@@ -4,15 +4,11 @@
 
 ## Project Details
 
-- Users can booking a hotel near by on his location.
-
-- Users can see his booking details.
-
-- Many kind of rooms are available to booking.
-
-- Users can sign up using google, facebook and also email amd password.
-
-- Users only see his booking details.
+- Users can book a hotel nearby on his location.
+- Users can see their booking details.
+- Many kinds of rooms are available for booking.
+- Users can sign up using Google, Facebook, and also email and password.
+- Users only see their booking details.
 
 ### Technology :
 
